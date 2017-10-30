@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/barnieboy/mongo-scraper/issues"
   },
-  "homepage": "https://github.com/barnieboy/mongo-scraper#readme"
+  "homepage": "https://github.com/barnieboy/mongo-scraper#readme",
+  "dependencies": {
+    "mongodb": "^2.2.33"
+  }
 }
