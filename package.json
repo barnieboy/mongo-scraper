@@ -1,0 +1,20 @@
+{
+  "name": "mongo-scraper",
+  "version": "1.0.0",
+  "description": "\"mongodb scraper\",",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barnieboy/mongo-scraper.git"
+  },
+  "author": "Tadesse Tegena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barnieboy/mongo-scraper/issues"
+  },
+  "homepage": "https://github.com/barnieboy/mongo-scraper#readme"
+}
